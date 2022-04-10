@@ -73,3 +73,7 @@ ul {
     object-fit: cover;
     z-index: -2;
 }
+
+body {
+    background: rgb(43, 20, 43);
+}
